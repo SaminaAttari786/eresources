@@ -1,6 +1,6 @@
 
 
-# ${1:Project Name}
+# ${1:Project Name:-OBSTACLE AVOIDANCE IN DRONE SIMULATION}
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
